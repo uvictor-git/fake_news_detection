@@ -8,7 +8,7 @@
 [https://arxiv.org/abs/1906.05659](https://arxiv.org/abs/1906.05659)
 
 ### Contributors
-Dr. Xishuang Dong
-Uboho Victor
-Shanta Chowdhury
+Dr. Xishuang Dong,
+Uboho Victor,
+Shanta Chowdhury,
 Dr. Lijun Qian
